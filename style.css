@@ -35,6 +35,17 @@ p {
   text-align: center;
 }
 
+footer {
+  padding: 40px 20px;
+  margin-left: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+
+footer a {
+  color: #6c63ff;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
